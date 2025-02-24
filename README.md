@@ -1,4 +1,4 @@
-# 3.1_METACRAFTERS
+# BLOCKCHAIN BASED TOKENS
 
 This Solidity smart contract implements a simple token with error handling fetaures using require() , assert() and revert() statement. It allows users to transfer tokens from their account to another account.
 
